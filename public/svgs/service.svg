@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 5000 5000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="ArtBoard1" x="0" y="0" width="5000" height="5000" style="fill:none;"/>
+    <g id="ArtBoard11" serif:id="ArtBoard1">
+        <g id="Ebene1" transform="matrix(1.3061,0,0,1.3061,-1453.54,-677.012)">
+            <g id="tablet" transform="matrix(32.4777,0,1.93692e-15,42.2141,1074.3,2417.05)">
+                <path d="M16,0L4,0C2.9,0 2,0.899 2,2L2,18C2,19.1 2.9,20 4,20L16,20C17.101,20 18,19.1 18,18L18,2C18,0.899 17.101,0 16,0ZM16.049,18.032L4.049,18.032L4,2L16,2L16.049,18.032Z" style="fill:rgb(190,190,190);fill-rule:nonzero;"/>
+            </g>
+            <g id="tv" transform="matrix(93.839,0,0,94.1383,1721.7,1475.25)">
+                <path d="M18,1L2,1C0.899,1 0,1.9 0,3L0,14C0,15.1 0.882,16.178 1.961,16.393L6.333,17.268C6.333,17.268 2.57,19 5,19L15,19C17.43,19 13.666,17.268 13.666,17.268L18.039,16.393C19.117,16.178 20,15.1 20,14L20,3C20,1.9 19.1,1 18,1ZM18,14L2,14L2,3L18,3L18,14Z" style="fill:rgb(190,190,190);fill-rule:nonzero;"/>
+            </g>
+            <g id="laptop" transform="matrix(68.6104,0,0,70.7942,3542.51,2021.2)">
+                <path d="M19.754,15.631C19.507,15.26 18,13 18,13L18,4C18,2.898 17.1,2 16,2L4,2C2.899,2 2,2.898 2,4L2,13C2,13 0.493,15.26 0.246,15.631C0,16 0,16.213 0,16.5L0,17C0,17.5 0.5,18 0.999,18L19.001,18C19.5,18 20,17.5 20,17L20,16.5C20,16.213 20,16 19.754,15.631ZM7,16L7.6,15L12.4,15L13,16L7,16ZM16,12L4,12L4,4L16,4L16,12Z" style="fill:rgb(190,190,190);fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+</svg>

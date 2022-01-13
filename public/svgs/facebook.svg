@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 4810 4810" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-95.3384,-95.4386)">
+        <g id="facebook-square" transform="matrix(200.38,0,0,200.38,95.5388,-305.322)">
+            <path d="M19.5,2C21.984,2 24,4.016 24,6.5L24,21.5C24,23.984 21.984,26 19.5,26L16.562,26L16.562,16.703L19.671,16.703L20.14,13.078L16.562,13.078L16.562,10.766C16.562,9.719 16.843,9.016 18.359,9.016L20.265,9L20.265,5.766C19.937,5.719 18.796,5.625 17.484,5.625C14.718,5.625 12.812,7.312 12.812,10.406L12.812,13.078L9.687,13.078L9.687,16.703L12.812,16.703L12.812,26L4.499,26C2.015,26 -0.001,23.984 -0.001,21.5L-0.001,6.5C-0.001,4.016 2.015,2 4.499,2L19.5,2Z" style="fill:rgb(190,190,190);fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

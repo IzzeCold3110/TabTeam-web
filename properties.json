@@ -1,0 +1,22 @@
+{
+    "navigation": {
+        "socialLinks": [
+            {
+                "iconName": "facebook",
+                "iconUrl": "#"
+            },
+            {
+                "iconName": "instagram",
+                "iconUrl": "#"
+            },
+            {
+                "iconName": "twitter",
+                "iconUrl": "#"
+            },
+            {
+                "iconName": "linkedin",
+                "iconUrl": "#"
+            }
+        ]
+    }
+}
